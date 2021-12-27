@@ -1,0 +1,33 @@
+2021-12-27 23:28:06,831 :: api :: INFO :: Face Logs :: No Face detected in Image of Moditest1!!
+2021-12-27 23:28:52,556 :: api :: INFO :: Face Logs :: No Face detected in Image of Moditest!!
+2021-12-27 23:30:50,982 :: api :: INFO :: Face Logs :: The output is :  [Errno 2] No such file or directory: 'imageToSave.jpg'
+2021-12-27 23:30:53,173 :: api :: INFO :: Face Logs :: The output is :  [Errno 2] No such file or directory: 'imageToSave.jpg'
+2021-12-27 23:33:08,865 :: 1 :: INFO :: Face Logs :: No Face detected in Image of Moditest!!
+2021-12-27 23:36:54,671 :: 1 :: INFO :: Face Logs :: 1 Image of Moditest Inserted Succesfully !!
+2021-12-27 23:36:54,672 :: 1 :: INFO :: Face Logs :: The output is :  Success
+2021-12-27 23:37:39,228 :: 1 :: INFO :: Face Logs :: The request has been received !!
+2021-12-27 23:37:45,176 :: 1 :: INFO :: Face Logs :: The output is :  Moditest
+2021-12-27 23:38:48,422 :: 1 :: INFO :: Face Logs :: The request has been received !!
+2021-12-27 23:38:55,703 :: 1 :: INFO :: Face Logs :: The output is :  Unknown Person
+2021-12-27 23:41:52,943 :: api :: INFO :: Face Logs :: 1 Image of rahul27 Inserted Succesfully !!
+2021-12-27 23:41:52,944 :: api :: INFO :: Face Logs :: The output is :  Success
+2021-12-27 23:42:26,896 :: api :: INFO :: Face Logs :: 1 Image of rahul27 Inserted Succesfully !!
+2021-12-27 23:42:26,896 :: api :: INFO :: Face Logs :: The output is :  Success
+2021-12-27 23:43:24,313 :: api :: INFO :: Face Logs :: 1 Image of rahul27 Inserted Succesfully !!
+2021-12-27 23:43:24,313 :: api :: INFO :: Face Logs :: The output is :  Success
+2021-12-27 23:44:18,588 :: api :: INFO :: Face Logs :: 1 Image of modi27 Inserted Succesfully !!
+2021-12-27 23:44:18,589 :: api :: INFO :: Face Logs :: The output is :  Success
+2021-12-27 23:44:43,799 :: api :: INFO :: Face Logs :: 1 Image of modi27 Inserted Succesfully !!
+2021-12-27 23:44:43,799 :: api :: INFO :: Face Logs :: The output is :  Success
+2021-12-27 23:45:07,421 :: api :: INFO :: Face Logs :: 1 Image of modi27 Inserted Succesfully !!
+2021-12-27 23:45:07,422 :: api :: INFO :: Face Logs :: The output is :  Success
+2021-12-27 23:46:04,144 :: api :: INFO :: Face Logs :: The request has been received !!
+2021-12-27 23:46:08,322 :: api :: INFO :: Face Logs :: The output is :  modi27
+2021-12-27 23:46:14,111 :: api :: INFO :: Face Logs :: The request has been received !!
+2021-12-27 23:46:18,159 :: api :: INFO :: Face Logs :: The output is :  Unknown Person
+2021-12-27 23:46:24,658 :: api :: INFO :: Face Logs :: The request has been received !!
+2021-12-27 23:46:24,684 :: api :: INFO :: Face Logs :: The output is :  Unknown Person
+2021-12-27 23:46:49,868 :: api :: INFO :: Face Logs :: The request has been received !!
+2021-12-27 23:46:49,918 :: api :: INFO :: Face Logs :: The output is :  cannot identify image file 'imageToSave.jpg'
+2021-12-27 23:47:30,502 :: api :: INFO :: Face Logs :: The request has been received !!
+2021-12-27 23:47:32,866 :: api :: INFO :: Face Logs :: The output is :  rahul27
