@@ -88,4 +88,4 @@ def analyze_deep(img):
 # verify_faces('1.jpeg','2 (14).jpg')
 # verify_faces('1.jpeg','2 (15).jpg')
 # print(verify_deep('facedata/m1.jpg', 'facedata/r1.jpg'))
-print(analyze_deep('facedata/m1.jpg'))
+# print(analyze_deep('facedata/m1.jpg'))
